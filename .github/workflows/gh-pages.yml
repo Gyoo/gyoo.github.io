@@ -1,28 +1,32 @@
-name: hugo-remote
+name: github pages
 
 on:
   push:
     branches:
-      - master
-
-env:
-  REMOTE: Gyoo/gyoo.github.io.git
-  DEST: public
-  TOKEN: ${{ secrets.TOKEN }}
+      - master  # Set a branch to deploy
+  pull_request:
 
 jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
+  deploy:
+    runs-on: ubuntu-20.04
     steps:
-      - name: 🛎 Check out master
-        uses: actions/checkout@master
+      - uses: actions/checkout@v2
         with:
-          fetch-depth: 1
-          # if your chosen Hugo theme is a submodule
-          submodules: true
-      - name: 🚀 Build and deploy
-        env:
-          HUGO_ARGS: '--minify --cleanDestinationDir'
-        uses: victoriadrake/hugo-remote@master
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          # extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/master'
+        with:
+          github_token: ${{ secrets.TOKEN }}
+          publish_dir: ./public
