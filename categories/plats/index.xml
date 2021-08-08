@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>La Popote</title>
-    <link>https://gyoo.github.io/</link>
-    <description>Recent content on La Popote</description>
+    <title>Plats on La Popote</title>
+    <link>https://gyoo.github.io/categories/plats/</link>
+    <description>Recent content in Plats on La Popote</description>
     <image>
       <url>https://gyoo.github.io/papermod-cover.png</url>
       <link>https://gyoo.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Aug 2021 21:01:46 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Aug 2021 21:01:46 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/categories/plats/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curry Leblanc</title>
       <link>https://gyoo.github.io/posts/curry-leblanc/</link>
@@ -18,8 +18,6 @@
       <guid>https://gyoo.github.io/posts/curry-leblanc/</guid>
       <description>Portions Préparation Cuisson     4 60 minutes 45 minutes    Ingredients  2 oignons 1 carotte 1/2 pomme 2cm gingembre 500g viande (boeuf à mijoter, poulet)  Epices  4cs farine 2cc cumin 2cc coriandre 2cc curcuma 1cc cardamome 1cc canelle 1/2cc piment de cayenne 1/2cc muscade 1/4cc clous de girofle en poudre 1/4cc poivre  Bouillon  200ml vin rouge 600ml bouillon de boeuf (ou poulet en fonction de la viande choisie) 1 feuille de laurier  Aromates  10g chocolat noir 1cc café instantané 1cc sauce Worcestershire 75g yaourt nature 1cc miel  Etapes  Râper la carotte, la pomme et le gingembre.</description>
     </item>
-    
-    
     
   </channel>
 </rss>

@@ -8,6 +8,16 @@
       <url>https://gyoo.github.io/papermod-cover.png</url>
       <link>https://gyoo.github.io/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://gyoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Aug 2021 21:01:46 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plats</title>
+      <link>https://gyoo.github.io/categories/plats/</link>
+      <pubDate>Thu, 05 Aug 2021 21:01:46 +0200</pubDate>
+      
+      <guid>https://gyoo.github.io/categories/plats/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
