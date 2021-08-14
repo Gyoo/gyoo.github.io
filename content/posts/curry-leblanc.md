@@ -9,6 +9,9 @@ tags:
 - Plat en sauce
 ---
 
+![Curry Leblanc](/illust/curry-leblanc.jpg#center)
+*Réalisé le 14/08/2021*
+
 | Portions | Préparation | Cuisson    |
 |----------|-------------|------------|
 | 4        | 60 minutes  | 45 minutes |
@@ -19,6 +22,7 @@ tags:
 - 1 carotte
 - 1/2 pomme
 - 2cm gingembre
+- 2 gousses d'ail
 - 500g viande (boeuf à mijoter, poulet)
 
 ## Epices
