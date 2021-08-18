@@ -1,6 +1,6 @@
 ---
 title: "Curry Leblanc"
-date: 2021-08-05T21:01:46+02:00
+date: 2021-08-10T12:00:00+02:00
 draft: false
 categories:
 - Plats
