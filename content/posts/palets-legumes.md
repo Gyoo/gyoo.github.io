@@ -1,6 +1,6 @@
 ---
 title: "Palets de légumes"
-date: 2021-08-18T12:00:00+02:00
+date: 2021-08-18T09:30:00+02:00
 draft: false
 categories:
 - Sides
