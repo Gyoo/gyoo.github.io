@@ -74,7 +74,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "La Popote"
+        Title: "![La Popote](/logo_transparent.png#center)"
         Content: >
             Bienvenue sur le répertoire de recettes de **La Popote**
 
