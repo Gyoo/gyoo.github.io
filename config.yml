@@ -58,7 +58,7 @@ params:
     ShowCodeCopyButtons: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    images: ["cover.png"]
 
     profileMode:
         enabled: false
