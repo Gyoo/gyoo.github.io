@@ -9,6 +9,9 @@ tags:
 - Recettes perso
 ---
 
+![Poulet au chorizo et palets de légumes](/illust/poulet-chorizo-palets-legumes.jpg#center)
+*Réalisé le 22/08/2021 [(VOD)](https://www.twitch.tv/videos/1125960699)*
+
 | Portions | Préparation | Cuisson    |
 |----------|-------------|------------| 
 |4         |20 minutes   |20 minutes  |

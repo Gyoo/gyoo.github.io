@@ -10,7 +10,7 @@ tags:
 ---
 
 ![Curry Leblanc](/illust/curry-leblanc.jpg#center)
-*Réalisé le 14/08/2021*
+*Réalisé le 14/08/2021 [(VOD 1)](https://www.twitch.tv/videos/1125958233) [(VOD 2)](https://www.twitch.tv/videos/1125960022)*
 
 | Portions | Préparation | Cuisson    |
 |----------|-------------|------------|
