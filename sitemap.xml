@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gyoo.github.io/categories/</loc>
-    <lastmod>2021-08-18T09:30:00+02:00</lastmod>
-  </url><url>
     <loc>https://gyoo.github.io/</loc>
+    <lastmod>2021-08-25T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/</loc>
+    <lastmod>2021-08-25T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/quiche-lorraine/</loc>
+    <lastmod>2021-08-25T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/bricks-viande-hachee/</loc>
+    <lastmod>2021-08-25T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/categories/</loc>
     <lastmod>2021-08-18T09:30:00+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/tags/l%C3%A9ger/</loc>
@@ -18,9 +27,6 @@
     <lastmod>2021-08-18T09:30:00+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/categories/plats/</loc>
-    <lastmod>2021-08-18T09:30:00+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/posts/</loc>
     <lastmod>2021-08-18T09:30:00+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/poulet-chorizo/</loc>
