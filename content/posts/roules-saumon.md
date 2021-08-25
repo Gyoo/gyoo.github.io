@@ -1,7 +1,7 @@
 ---
 title: "Mini roulés au saumon fumé"
 date: 2021-08-25T13:00:00+02:00
-draft: true
+draft: false
 ---
 
 | Portions | Préparation | Cuisson    |
