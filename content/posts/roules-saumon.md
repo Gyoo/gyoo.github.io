@@ -2,7 +2,15 @@
 title: "Mini roulés au saumon fumé"
 date: 2021-08-25T13:00:00+02:00
 draft: false
+categories:
+- Apéro
+tags:
+- Bouchées
+- Recettes perso
 ---
+
+![Mini roulés au saumon fumé](/illust/roules-saumon.jpg#center)
+*Réalisé le 28/08/2021 [(VOD)](https://www.twitch.tv/videos/1134254686)*
 
 | Portions | Préparation | Cuisson    |
 |----------|-------------|------------|
