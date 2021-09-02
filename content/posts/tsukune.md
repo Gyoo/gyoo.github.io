@@ -1,6 +1,6 @@
 ---
 title: "Boulettes de poulet yakitori"
-date: 2021-09-02T12:00+02:00
+date: 2021-09-02T12:00:00+02:00
 draft: false
 categories:
 - Plats
