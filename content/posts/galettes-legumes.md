@@ -9,6 +9,9 @@ tags:
 - Léger
 ---
 
+![Galettes de légumes](/illust/tsukune-galettes-legumes.jpg#center)
+*Réalisé le 04/09/2021 [(VOD)](https://www.twitch.tv/videos/1142510197)*
+
 | Portions | Préparation | Cuisson    |
 |----------|-------------|------------|
 | 4        | 15 minutes  | 15 minutes |
