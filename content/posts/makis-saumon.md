@@ -13,6 +13,9 @@ tags:
 |----------|-------------|------------| -----------|
 | 2        | 60 minutes  | 50 minutes | 10 minutes |
 
+![Makis au saumon](/illust/makis-saumon.jpg#center)
+*Réalisé le 11/09/2021 [(VOD)](https://www.twitch.tv/videos/1150413543)*
+
 # Ingredients
 
 - 150g riz japonica

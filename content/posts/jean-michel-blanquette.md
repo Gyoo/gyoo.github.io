@@ -9,6 +9,9 @@ tags:
 - Plat en sauce
 ---
 
+![Blanquette de veau](/illust/blanquette-veau.jpg#center)
+*Réalisé le 11/09/2021 [(VOD)](https://www.twitch.tv/videos/1150413543)*
+
 | Portions | Préparation | Cuisson    |
 |----------|-------------|------------|
 | 4        | 30 minutes  | 100 minutes|
