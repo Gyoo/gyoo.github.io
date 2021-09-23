@@ -9,6 +9,9 @@ tags:
 - Salade
 ---
 
+![Salade de riz](/illust/salade-de-riz.jpg#center)
+*Réalisé le 18/09/2021 [(VOD)](https://www.twitch.tv/videos/1156797118)*
+
 | Portions | Préparation | Cuisson    |
 |----------|-------------|------------|
 | 3        | 15 minutes  | 10 minutes |

@@ -9,6 +9,9 @@ tags:
 - Plat en sauce
 ---
 
+![Chili Con Carne](/illust/chili-con-carne.jpg#center)
+*Réalisé le 18/09/2021 [(VOD)](https://www.twitch.tv/videos/1156797118)*
+
 | Portions | Préparation | Cuisson    |
 |----------|-------------|------------|
 | 4        | 20 minutes  | 30 minutes |
