@@ -9,6 +9,9 @@ tags:
 - Fruits de mer
 ---
 
+![Risotto aux fruits de mer](/illust/risotto-fruits-de-mer.jpg#center)
+*Réalisé le 25/09/2021 [(VOD)](https://www.twitch.tv/videos/1162536073)*
+
 | Portions | Préparation | Cuisson    |
 |----------|-------------|------------|
 | 4        | 20 minutes  | 25 minutes |

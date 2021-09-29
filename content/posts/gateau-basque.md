@@ -1,5 +1,5 @@
 ---
-title: "Gateau Basque"
+title: "Gâteau Basque"
 date: 2021-09-24T19:30:00+02:00
 draft: false
 categories:
@@ -8,6 +8,9 @@ tags:
 - Français
 - Gâteau
 ---
+
+![Gâteau basque](/illust/gateau-basque.jpg#center)
+*Réalisé le 25/09/2021 [(VOD)](https://www.twitch.tv/videos/1162536073)*
 
 | Portions | Préparation | Cuisson    |
 |----------|-------------|------------|
