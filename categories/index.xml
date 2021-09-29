@@ -9,22 +9,22 @@
       <link>https://gyoo.github.io/cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Sep 2021 19:30:00 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Sep 2021 15:55:00 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plats</title>
+      <link>https://gyoo.github.io/categories/plats/</link>
+      <pubDate>Wed, 29 Sep 2021 15:55:00 +0200</pubDate>
+      
+      <guid>https://gyoo.github.io/categories/plats/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Dessert</title>
       <link>https://gyoo.github.io/categories/dessert/</link>
       <pubDate>Fri, 24 Sep 2021 19:30:00 +0200</pubDate>
       
       <guid>https://gyoo.github.io/categories/dessert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plats</title>
-      <link>https://gyoo.github.io/categories/plats/</link>
-      <pubDate>Thu, 23 Sep 2021 12:30:00 +0200</pubDate>
-      
-      <guid>https://gyoo.github.io/categories/plats/</guid>
       <description></description>
     </item>
     
