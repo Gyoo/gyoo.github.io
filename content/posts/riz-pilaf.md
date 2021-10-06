@@ -8,6 +8,9 @@ tags:
 - Moyen-orient
 ---
 
+![Riz pilaf](/illust/riz-pilaf.jpg#center)
+*Réalisé le 02/10/2021 [(VOD)](https://www.twitch.tv/videos/1169093298)*
+
 | Portions | Préparation | Cuisson    |
 |----------|-------------|------------|
 | 4        | 30 minutes  | 40 minutes |
