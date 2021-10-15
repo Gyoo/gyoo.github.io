@@ -9,6 +9,9 @@ tags:
 - Inspiration
 ---
 
+![Curry de poisson](/illust/curry-poisson.jpg#center)
+*Réalisé le 09/10/2021 [(VOD)](https://www.twitch.tv/videos/1177601752)*
+
 | Portions | Préparation | Cuisson    |
 |----------|-------------|------------|
 | 4        | 30 minutes  | 30 minutes |
