@@ -9,6 +9,9 @@ tags:
 - Gâteau
 ---
 
+![Gâteau d'automne aux pommes](/illust/gateau-pommes.jpg#center)
+*Réalisé le 16/10/2021 [(VOD)](https://www.twitch.tv/videos/1184984037)*
+
 | Portions | Préparation | Cuisson    |
 |----------|-------------|------------|
 | 8        | 20 minutes  | 45 minutes |
