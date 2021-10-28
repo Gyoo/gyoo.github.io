@@ -9,6 +9,9 @@ tags:
 - Italien
 ---
 
+![Raviolis Ricotta Épinards](/illust/raviolis-ricotta-epinards.jpg#center)
+*Réalisé le 24/10/2021 [(VOD)](https://www.twitch.tv/videos/1189211795)*
+
 | Portions | Préparation | Cuisson    |
 |----------|-------------|------------|
 | 6        | 35 minutes  | 15 minutes |
