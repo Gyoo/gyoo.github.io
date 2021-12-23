@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gâteau on La Popote</title>
+    <link>https://gyoo.github.io/categories/g%C3%A2teau/</link>
+    <description>Recent content in Gâteau on La Popote</description>
+    <image>
+      <url>https://gyoo.github.io/cover.png</url>
+      <link>https://gyoo.github.io/cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 23 Dec 2021 13:21:15 +0100</lastBuildDate><atom:link href="https://gyoo.github.io/categories/g%C3%A2teau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gâteau Baulois</title>
+      <link>https://gyoo.github.io/posts/gateau-baulois/</link>
+      <pubDate>Thu, 23 Dec 2021 13:21:15 +0100</pubDate>
+      
+      <guid>https://gyoo.github.io/posts/gateau-baulois/</guid>
+      <description>Portions Préparation Cuisson     8 20 minutes 35 minutes    Ingredients  240g beurre 200g chocolat noir 210g sucre 4 oeufs 1 pincée café instantané 1 pincée sel 30g farine  Etapes  Préchauffer le four à 175°C Faire fondre le chocolat avec le beurre Battre les oeufs avec le sucre, le café et le sel jusqu&amp;rsquo;à ce que je mélange soit mousseux.</description>
+    </item>
+    
+  </channel>
+</rss>

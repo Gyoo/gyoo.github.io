@@ -9,7 +9,16 @@
       <link>https://gyoo.github.io/cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Dec 2021 13:28:18 +0100</lastBuildDate><atom:link href="https://gyoo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Dec 2021 13:21:23 +0100</lastBuildDate><atom:link href="https://gyoo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Français</title>
+      <link>https://gyoo.github.io/tags/fran%C3%A7ais/</link>
+      <pubDate>Thu, 23 Dec 2021 13:21:23 +0100</pubDate>
+      
+      <guid>https://gyoo.github.io/tags/fran%C3%A7ais/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Coréen</title>
       <link>https://gyoo.github.io/tags/cor%C3%A9en/</link>
@@ -115,15 +124,6 @@
       <pubDate>Wed, 29 Sep 2021 15:55:00 +0200</pubDate>
       
       <guid>https://gyoo.github.io/tags/moyen-orient/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Français</title>
-      <link>https://gyoo.github.io/tags/fran%C3%A7ais/</link>
-      <pubDate>Fri, 24 Sep 2021 19:30:00 +0200</pubDate>
-      
-      <guid>https://gyoo.github.io/tags/fran%C3%A7ais/</guid>
       <description></description>
     </item>
     
