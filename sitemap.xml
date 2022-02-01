@@ -2,25 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gyoo.github.io/posts/biscotti/</loc>
-    <lastmod>2022-01-21T07:39:35+01:00</lastmod>
-  </url><url>
     <loc>https://gyoo.github.io/categories/</loc>
-    <lastmod>2022-01-21T07:39:35+01:00</lastmod>
+    <lastmod>2022-02-01T20:31:07+01:00</lastmod>
   </url><url>
-    <loc>https://gyoo.github.io/categories/dessert/</loc>
-    <lastmod>2022-01-21T07:39:35+01:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/tags/italien/</loc>
-    <lastmod>2022-01-21T07:39:35+01:00</lastmod>
+    <loc>https://gyoo.github.io/tags/indien/</loc>
+    <lastmod>2022-02-01T20:31:07+01:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/</loc>
-    <lastmod>2022-01-21T07:39:35+01:00</lastmod>
+    <lastmod>2022-02-01T20:31:07+01:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/</loc>
-    <lastmod>2022-01-21T07:39:35+01:00</lastmod>
+    <lastmod>2022-02-01T20:31:07+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/categories/sauce/</loc>
+    <lastmod>2022-02-01T20:31:07+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/sauce-curry/</loc>
+    <lastmod>2022-02-01T20:31:07+01:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/tags/</loc>
+    <lastmod>2022-02-01T20:31:07+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/tags/italien/</loc>
+    <lastmod>2022-02-01T20:31:03+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/sauce-poivron/</loc>
+    <lastmod>2022-02-01T20:31:03+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/sauce-arrabiata/</loc>
+    <lastmod>2022-02-01T20:30:55+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/crepes/</loc>
+    <lastmod>2022-02-01T20:30:44+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/categories/dessert/</loc>
+    <lastmod>2022-02-01T20:30:44+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/tags/fran%C3%A7ais/</loc>
+    <lastmod>2022-02-01T20:30:44+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/biscotti/</loc>
     <lastmod>2022-01-21T07:39:35+01:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/paupiette-saumon/</loc>
@@ -47,9 +68,6 @@
     <loc>https://gyoo.github.io/tags/sud-ouest/</loc>
     <lastmod>2022-01-13T12:39:32+01:00</lastmod>
   </url><url>
-    <loc>https://gyoo.github.io/tags/fran%C3%A7ais/</loc>
-    <lastmod>2021-12-23T13:21:23+01:00</lastmod>
-  </url><url>
     <loc>https://gyoo.github.io/categories/glace/</loc>
     <lastmod>2021-12-23T13:21:23+01:00</lastmod>
   </url><url>
@@ -69,9 +87,6 @@
     <lastmod>2021-12-02T13:28:18+01:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/ragu-bolognese/</loc>
-    <lastmod>2021-12-02T13:19:43+01:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/categories/sauce/</loc>
     <lastmod>2021-12-02T13:19:43+01:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/categories/accompagnement/</loc>
