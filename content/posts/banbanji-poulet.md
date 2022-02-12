@@ -1,5 +1,5 @@
 ---
-title: "Banbanji Poulet"
+title: "Banbanji de Poulet"
 date: 2022-02-12T07:05:48+01:00
 draft: false
 categories:
