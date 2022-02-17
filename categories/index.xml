@@ -9,7 +9,25 @@
       <link>https://gyoo.github.io/cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 12 Feb 2022 07:05:48 +0100</lastBuildDate><atom:link href="https://gyoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Feb 2022 07:54:53 +0100</lastBuildDate><atom:link href="https://gyoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plats</title>
+      <link>https://gyoo.github.io/categories/plats/</link>
+      <pubDate>Thu, 17 Feb 2022 07:54:53 +0100</pubDate>
+      
+      <guid>https://gyoo.github.io/categories/plats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dessert</title>
+      <link>https://gyoo.github.io/categories/dessert/</link>
+      <pubDate>Thu, 17 Feb 2022 07:54:39 +0100</pubDate>
+      
+      <guid>https://gyoo.github.io/categories/dessert/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Japonais</title>
       <link>https://gyoo.github.io/categories/japonais/</link>
@@ -34,24 +52,6 @@
       <pubDate>Tue, 01 Feb 2022 20:31:07 +0100</pubDate>
       
       <guid>https://gyoo.github.io/categories/sauce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dessert</title>
-      <link>https://gyoo.github.io/categories/dessert/</link>
-      <pubDate>Tue, 01 Feb 2022 20:30:44 +0100</pubDate>
-      
-      <guid>https://gyoo.github.io/categories/dessert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plats</title>
-      <link>https://gyoo.github.io/categories/plats/</link>
-      <pubDate>Fri, 21 Jan 2022 07:39:28 +0100</pubDate>
-      
-      <guid>https://gyoo.github.io/categories/plats/</guid>
       <description></description>
     </item>
     
