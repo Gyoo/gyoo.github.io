@@ -2,8 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gyoo.github.io/tags/asiatique/</loc>
+    <lastmod>2022-04-22T20:40:52+02:00</lastmod>
+  </url><url>
     <loc>https://gyoo.github.io/categories/</loc>
-    <lastmod>2022-04-08T18:58:47+02:00</lastmod>
+    <lastmod>2022-04-22T20:40:52+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/</loc>
+    <lastmod>2022-04-22T20:40:52+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/categories/plats/</loc>
+    <lastmod>2022-04-22T20:40:52+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/</loc>
+    <lastmod>2022-04-22T20:40:52+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/riz-cantonais/</loc>
+    <lastmod>2022-04-22T20:40:52+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/tags/</loc>
+    <lastmod>2022-04-22T20:40:52+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/quiche-thon-legumes/</loc>
+    <lastmod>2022-04-22T20:40:46+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/tags/tarte/</loc>
+    <lastmod>2022-04-22T20:40:46+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/dahl-lentilles-corail/</loc>
     <lastmod>2022-04-08T18:58:47+02:00</lastmod>
@@ -11,23 +35,11 @@
     <loc>https://gyoo.github.io/tags/indien/</loc>
     <lastmod>2022-04-08T18:58:47+02:00</lastmod>
   </url><url>
-    <loc>https://gyoo.github.io/</loc>
-    <lastmod>2022-04-08T18:58:47+02:00</lastmod>
-  </url><url>
     <loc>https://gyoo.github.io/categories/plat/</loc>
-    <lastmod>2022-04-08T18:58:47+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/posts/</loc>
-    <lastmod>2022-04-08T18:58:47+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/tags/</loc>
     <lastmod>2022-04-08T18:58:47+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/poulet-tandoori/</loc>
     <lastmod>2022-04-08T18:58:38+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/categories/plats/</loc>
-    <lastmod>2022-04-01T12:01:29+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/poivrons-farcis/</loc>
     <lastmod>2022-04-01T12:01:29+02:00</lastmod>
@@ -41,16 +53,10 @@
     <loc>https://gyoo.github.io/posts/poulet-vanille/</loc>
     <lastmod>2022-02-25T20:39:38+01:00</lastmod>
   </url><url>
-    <loc>https://gyoo.github.io/tags/asiatique/</loc>
-    <lastmod>2022-02-17T07:54:53+01:00</lastmod>
-  </url><url>
     <loc>https://gyoo.github.io/posts/porc-miel/</loc>
     <lastmod>2022-02-17T07:54:53+01:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/categories/dessert/</loc>
-    <lastmod>2022-02-17T07:54:39+01:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/tags/tarte/</loc>
     <lastmod>2022-02-17T07:54:39+01:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/tarte-poire-chocolat/</loc>
