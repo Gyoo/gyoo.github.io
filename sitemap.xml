@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gyoo.github.io/tags/asiatique/</loc>
-    <lastmod>2022-04-22T20:40:52+02:00</lastmod>
-  </url><url>
     <loc>https://gyoo.github.io/categories/</loc>
-    <lastmod>2022-04-22T20:40:52+02:00</lastmod>
+    <lastmod>2022-05-06T20:48:43+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/tags/flan/</loc>
+    <lastmod>2022-05-06T20:48:43+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/flan-courgettes-saumon-fume/</loc>
+    <lastmod>2022-05-06T20:48:43+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/</loc>
+    <lastmod>2022-05-06T20:48:43+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/categories/plat/</loc>
+    <lastmod>2022-05-06T20:48:43+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/</loc>
+    <lastmod>2022-05-06T20:48:43+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/tags/</loc>
+    <lastmod>2022-05-06T20:48:43+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/encornets-chorizo/</loc>
+    <lastmod>2022-05-06T20:48:32+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/tags/asiatique/</loc>
     <lastmod>2022-04-22T20:40:52+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/categories/plats/</loc>
     <lastmod>2022-04-22T20:40:52+02:00</lastmod>
   </url><url>
-    <loc>https://gyoo.github.io/posts/</loc>
-    <lastmod>2022-04-22T20:40:52+02:00</lastmod>
-  </url><url>
     <loc>https://gyoo.github.io/posts/riz-cantonais/</loc>
-    <lastmod>2022-04-22T20:40:52+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/tags/</loc>
     <lastmod>2022-04-22T20:40:52+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/quiche-thon-legumes/</loc>
@@ -33,9 +45,6 @@
     <lastmod>2022-04-08T18:58:47+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/tags/indien/</loc>
-    <lastmod>2022-04-08T18:58:47+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/categories/plat/</loc>
     <lastmod>2022-04-08T18:58:47+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/poulet-tandoori/</loc>
