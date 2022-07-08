@@ -9,7 +9,16 @@
       <link>https://gyoo.github.io/cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Jul 2022 15:59:09 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jul 2022 19:38:02 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Français</title>
+      <link>https://gyoo.github.io/tags/fran%C3%A7ais/</link>
+      <pubDate>Fri, 08 Jul 2022 19:38:02 +0200</pubDate>
+      
+      <guid>https://gyoo.github.io/tags/fran%C3%A7ais/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Japonais</title>
       <link>https://gyoo.github.io/tags/japonais/</link>
@@ -34,15 +43,6 @@
       <pubDate>Fri, 17 Jun 2022 20:20:02 +0200</pubDate>
       
       <guid>https://gyoo.github.io/tags/asiatique/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Français</title>
-      <link>https://gyoo.github.io/tags/fran%C3%A7ais/</link>
-      <pubDate>Fri, 10 Jun 2022 19:43:28 +0200</pubDate>
-      
-      <guid>https://gyoo.github.io/tags/fran%C3%A7ais/</guid>
       <description></description>
     </item>
     
