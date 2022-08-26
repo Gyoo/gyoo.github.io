@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gyoo.github.io/posts/cake-polenta-ananas/</loc>
+    <lastmod>2022-08-26T07:26:02+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/categories/</loc>
+    <lastmod>2022-08-26T07:26:02+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/categories/dessert/</loc>
+    <lastmod>2022-08-26T07:26:02+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/</loc>
+    <lastmod>2022-08-26T07:26:02+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/</loc>
+    <lastmod>2022-08-26T07:26:02+02:00</lastmod>
+  </url><url>
     <loc>https://gyoo.github.io/categories/ap%C3%A9ritif/</loc>
     <lastmod>2022-08-05T15:45:28+02:00</lastmod>
   </url><url>
-    <loc>https://gyoo.github.io/categories/</loc>
-    <lastmod>2022-08-05T15:45:28+02:00</lastmod>
-  </url><url>
     <loc>https://gyoo.github.io/posts/feuillete-saumon/</loc>
-    <lastmod>2022-08-05T15:45:28+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/</loc>
-    <lastmod>2022-08-05T15:45:28+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/posts/</loc>
     <lastmod>2022-08-05T15:45:28+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/cookies-jambon-fromage/</loc>
@@ -43,9 +49,6 @@
   </url><url>
     <loc>https://gyoo.github.io/posts/tarte-thon/</loc>
     <lastmod>2022-07-08T19:38:17+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/categories/dessert/</loc>
-    <lastmod>2022-07-08T19:38:02+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/flan-parisien/</loc>
     <lastmod>2022-07-08T19:38:02+02:00</lastmod>
