@@ -9,7 +9,16 @@
       <link>https://gyoo.github.io/cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 Aug 2022 07:26:02 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Sep 2022 20:49:41 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plat</title>
+      <link>https://gyoo.github.io/categories/plat/</link>
+      <pubDate>Fri, 02 Sep 2022 20:49:41 +0200</pubDate>
+      
+      <guid>https://gyoo.github.io/categories/plat/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Dessert</title>
       <link>https://gyoo.github.io/categories/dessert/</link>
@@ -25,15 +34,6 @@
       <pubDate>Fri, 05 Aug 2022 15:45:28 +0200</pubDate>
       
       <guid>https://gyoo.github.io/categories/ap%C3%A9ritif/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plat</title>
-      <link>https://gyoo.github.io/categories/plat/</link>
-      <pubDate>Fri, 15 Jul 2022 17:33:52 +0200</pubDate>
-      
-      <guid>https://gyoo.github.io/categories/plat/</guid>
       <description></description>
     </item>
     
