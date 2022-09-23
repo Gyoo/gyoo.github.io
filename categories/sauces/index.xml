@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sauces on La Popote</title>
+    <link>https://gyoo.github.io/categories/sauces/</link>
+    <description>Recent content in Sauces on La Popote</description>
+    <image>
+      <url>https://gyoo.github.io/cover.png</url>
+      <link>https://gyoo.github.io/cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 23 Sep 2022 18:40:26 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/categories/sauces/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sauce aux Noix</title>
+      <link>https://gyoo.github.io/posts/sauce-noix/</link>
+      <pubDate>Fri, 23 Sep 2022 18:40:26 +0200</pubDate>
+      
+      <guid>https://gyoo.github.io/posts/sauce-noix/</guid>
+      <description>Portions Préparation Cuisson ? 10 minutes 0 minutes Ingredients 200g noix 50g pecorino 3 gousses d&amp;rsquo;ail 150g huile d&amp;rsquo;olive 70g mie de pain Eau Sel Poivre Etapes Faire tremper la mie de pain dans de l&amp;rsquo;eau. Lorsqu&amp;rsquo;elle est gorgée d&amp;rsquo;eau, la presser pour faire sortir le trop plein d&amp;rsquo;eau et réserver. Mettre les noix, les gousses d&amp;rsquo;ail, la mie de pain humidifiée, le fromage, sel et poivre dans le bol d&amp;rsquo;un robot mixeur.</description>
+    </item>
+    
+  </channel>
+</rss>
