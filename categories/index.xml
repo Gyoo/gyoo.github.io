@@ -9,7 +9,25 @@
       <link>https://gyoo.github.io/cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 23 Sep 2022 18:40:26 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Oct 2022 10:49:26 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dessert</title>
+      <link>https://gyoo.github.io/categories/dessert/</link>
+      <pubDate>Sat, 08 Oct 2022 10:49:26 +0200</pubDate>
+      
+      <guid>https://gyoo.github.io/categories/dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plat</title>
+      <link>https://gyoo.github.io/categories/plat/</link>
+      <pubDate>Sat, 08 Oct 2022 10:49:21 +0200</pubDate>
+      
+      <guid>https://gyoo.github.io/categories/plat/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Sauces</title>
       <link>https://gyoo.github.io/categories/sauces/</link>
@@ -20,29 +38,11 @@
     </item>
     
     <item>
-      <title>Dessert</title>
-      <link>https://gyoo.github.io/categories/dessert/</link>
-      <pubDate>Fri, 23 Sep 2022 18:40:10 +0200</pubDate>
-      
-      <guid>https://gyoo.github.io/categories/dessert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Plats</title>
       <link>https://gyoo.github.io/categories/plats/</link>
       <pubDate>Fri, 16 Sep 2022 19:08:01 +0200</pubDate>
       
       <guid>https://gyoo.github.io/categories/plats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plat</title>
-      <link>https://gyoo.github.io/categories/plat/</link>
-      <pubDate>Fri, 02 Sep 2022 20:49:41 +0200</pubDate>
-      
-      <guid>https://gyoo.github.io/categories/plat/</guid>
       <description></description>
     </item>
     
