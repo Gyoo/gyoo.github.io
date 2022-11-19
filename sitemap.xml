@@ -2,19 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gyoo.github.io/categories/accompagnement/</loc>
+    <lastmod>2022-11-19T07:47:22+01:00</lastmod>
+  </url><url>
     <loc>https://gyoo.github.io/categories/</loc>
-    <lastmod>2022-10-28T19:23:49+02:00</lastmod>
+    <lastmod>2022-11-19T07:47:22+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/champignons-a-la-bordelaise/</loc>
+    <lastmod>2022-11-19T07:47:22+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/tags/fran%C3%A7ais/</loc>
+    <lastmod>2022-11-19T07:47:22+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/</loc>
+    <lastmod>2022-11-19T07:47:22+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/</loc>
+    <lastmod>2022-11-19T07:47:22+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/tags/</loc>
+    <lastmod>2022-11-19T07:47:22+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/cotelettes-de-saumon-pojarski/</loc>
+    <lastmod>2022-11-19T07:47:09+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/categories/plats/</loc>
+    <lastmod>2022-11-19T07:47:09+01:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/tags/poisson/</loc>
+    <lastmod>2022-11-19T07:47:09+01:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/categories/dessert/</loc>
     <lastmod>2022-10-28T19:23:49+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/gateau-citron-pavot/</loc>
-    <lastmod>2022-10-28T19:23:49+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/</loc>
-    <lastmod>2022-10-28T19:23:49+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/posts/</loc>
     <lastmod>2022-10-28T19:23:49+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/kabsa/</loc>
@@ -24,9 +45,6 @@
     <lastmod>2022-10-28T19:03:12+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/tags/saoudien/</loc>
-    <lastmod>2022-10-28T19:03:12+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/tags/</loc>
     <lastmod>2022-10-28T19:03:12+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/enchiladas/</loc>
@@ -54,9 +72,6 @@
     <lastmod>2022-09-23T18:40:10+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/gratin-riz-epinards/</loc>
-    <lastmod>2022-09-16T19:08:01+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/categories/plats/</loc>
     <lastmod>2022-09-16T19:08:01+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/poulet-olives/</loc>
@@ -93,9 +108,6 @@
     <lastmod>2022-07-08T19:38:17+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/flan-parisien/</loc>
-    <lastmod>2022-07-08T19:38:02+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/tags/fran%C3%A7ais/</loc>
     <lastmod>2022-07-08T19:38:02+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/tags/japonais/</loc>
@@ -238,9 +250,6 @@
   </url><url>
     <loc>https://gyoo.github.io/posts/ragu-bolognese/</loc>
     <lastmod>2021-12-02T13:19:43+01:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/categories/accompagnement/</loc>
-    <lastmod>2021-11-19T12:13:13+01:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/houmous/</loc>
     <lastmod>2021-11-19T12:13:13+01:00</lastmod>
