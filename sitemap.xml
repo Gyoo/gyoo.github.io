@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gyoo.github.io/tags/cajun/</loc>
-    <lastmod>2023-03-17T11:43:14+01:00</lastmod>
+    <loc>https://gyoo.github.io/categories/accompagnement/</loc>
+    <lastmod>2023-03-31T20:44:39+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/tags/am%C3%A9ricain/</loc>
+    <lastmod>2023-03-31T20:44:39+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/categories/</loc>
+    <lastmod>2023-03-31T20:44:39+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/cream-cheese/</loc>
+    <lastmod>2023-03-31T20:44:39+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/</loc>
+    <lastmod>2023-03-31T20:44:39+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/</loc>
+    <lastmod>2023-03-31T20:44:39+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/tags/</loc>
+    <lastmod>2023-03-31T20:44:39+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/posts/focaccia/</loc>
+    <lastmod>2023-03-31T20:44:13+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/tags/italien/</loc>
+    <lastmod>2023-03-31T20:44:13+02:00</lastmod>
+  </url><url>
+    <loc>https://gyoo.github.io/tags/cajun/</loc>
     <lastmod>2023-03-17T11:43:14+01:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/jambalaya/</loc>
     <lastmod>2023-03-17T11:43:14+01:00</lastmod>
   </url><url>
-    <loc>https://gyoo.github.io/</loc>
-    <lastmod>2023-03-17T11:43:14+01:00</lastmod>
-  </url><url>
     <loc>https://gyoo.github.io/categories/plat/</loc>
-    <lastmod>2023-03-17T11:43:14+01:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/posts/</loc>
-    <lastmod>2023-03-17T11:43:14+01:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/tags/</loc>
     <lastmod>2023-03-17T11:43:14+01:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/boulettes-agneau/</loc>
@@ -46,9 +61,6 @@
   </url><url>
     <loc>https://gyoo.github.io/posts/lasagne-saumon-epinard/</loc>
     <lastmod>2022-12-23T18:46:49+01:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/categories/accompagnement/</loc>
-    <lastmod>2022-11-19T07:47:22+01:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/champignons-a-la-bordelaise/</loc>
     <lastmod>2022-11-19T07:47:22+01:00</lastmod>
@@ -117,9 +129,6 @@
     <lastmod>2022-08-05T15:45:05+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/aubergine-parmigiana/</loc>
-    <lastmod>2022-07-15T17:33:52+02:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/tags/italien/</loc>
     <lastmod>2022-07-15T17:33:52+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/poulet-miel-ail/</loc>
@@ -283,9 +292,6 @@
   </url><url>
     <loc>https://gyoo.github.io/posts/falafels/</loc>
     <lastmod>2021-11-19T12:13:07+01:00</lastmod>
-  </url><url>
-    <loc>https://gyoo.github.io/tags/am%C3%A9ricain/</loc>
-    <lastmod>2021-10-28T13:05:37+02:00</lastmod>
   </url><url>
     <loc>https://gyoo.github.io/posts/poulet-effiloche/</loc>
     <lastmod>2021-10-28T13:05:37+02:00</lastmod>
