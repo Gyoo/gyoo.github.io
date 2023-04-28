@@ -1,5 +1,5 @@
 ---
-title: "Poulet Bacon Olives"
+title: "Poulet au Bacon et Olives"
 date: 2023-04-22T07:44:47+02:00
 draft: false
 categories:
