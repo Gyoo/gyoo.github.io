@@ -9,7 +9,25 @@
       <link>https://gyoo.github.io/cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 Apr 2023 19:38:47 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 May 2023 13:12:40 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sauce</title>
+      <link>https://gyoo.github.io/categories/sauce/</link>
+      <pubDate>Fri, 26 May 2023 13:12:40 +0200</pubDate>
+      
+      <guid>https://gyoo.github.io/categories/sauce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plats</title>
+      <link>https://gyoo.github.io/categories/plats/</link>
+      <pubDate>Fri, 26 May 2023 13:05:35 +0200</pubDate>
+      
+      <guid>https://gyoo.github.io/categories/plats/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Plat</title>
       <link>https://gyoo.github.io/categories/plat/</link>
@@ -47,15 +65,6 @@
     </item>
     
     <item>
-      <title>Plats</title>
-      <link>https://gyoo.github.io/categories/plats/</link>
-      <pubDate>Sat, 19 Nov 2022 07:47:09 +0100</pubDate>
-      
-      <guid>https://gyoo.github.io/categories/plats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sauces</title>
       <link>https://gyoo.github.io/categories/sauces/</link>
       <pubDate>Fri, 23 Sep 2022 18:40:26 +0200</pubDate>
@@ -79,15 +88,6 @@
       <pubDate>Fri, 08 Jul 2022 19:38:17 +0200</pubDate>
       
       <guid>https://gyoo.github.io/categories/tarte/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sauce</title>
-      <link>https://gyoo.github.io/categories/sauce/</link>
-      <pubDate>Thu, 12 May 2022 20:17:37 +0200</pubDate>
-      
-      <guid>https://gyoo.github.io/categories/sauce/</guid>
       <description></description>
     </item>
     
