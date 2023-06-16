@@ -1,5 +1,5 @@
 ---
-title: "Stir Fry de Porc Sauce Tarami"
+title: "Stir Fry de Porc Sauce Tamari"
 date: 2023-06-16T15:39:12+02:00
 draft: false
 categories:
