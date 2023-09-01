@@ -9,7 +9,25 @@
       <link>https://gyoo.github.io/cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 21 Jul 2023 13:17:33 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 17:13:49 +0200</lastBuildDate><atom:link href="https://gyoo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Français</title>
+      <link>https://gyoo.github.io/tags/fran%C3%A7ais/</link>
+      <pubDate>Fri, 01 Sep 2023 17:13:49 +0200</pubDate>
+      
+      <guid>https://gyoo.github.io/tags/fran%C3%A7ais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portugais</title>
+      <link>https://gyoo.github.io/tags/portugais/</link>
+      <pubDate>Fri, 01 Sep 2023 17:13:42 +0200</pubDate>
+      
+      <guid>https://gyoo.github.io/tags/portugais/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Random</title>
       <link>https://gyoo.github.io/tags/random/</link>
@@ -61,15 +79,6 @@
       <pubDate>Fri, 16 Jun 2023 15:39:12 +0200</pubDate>
       
       <guid>https://gyoo.github.io/tags/thai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Français</title>
-      <link>https://gyoo.github.io/tags/fran%C3%A7ais/</link>
-      <pubDate>Fri, 09 Jun 2023 15:44:14 +0200</pubDate>
-      
-      <guid>https://gyoo.github.io/tags/fran%C3%A7ais/</guid>
       <description></description>
     </item>
     
